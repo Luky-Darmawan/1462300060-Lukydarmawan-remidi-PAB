@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981315297520",
+    "project_id": "flutter-remidi-pab",
+    "storage_bucket": "flutter-remidi-pab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981315297520:android:294e74288de7bcfb846235",
+        "android_client_info": {
+          "package_name": "com.example.flutter_remidi_pab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xtC9rM0d3DnXLZ2F8d1_q8tO8xwWXiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
